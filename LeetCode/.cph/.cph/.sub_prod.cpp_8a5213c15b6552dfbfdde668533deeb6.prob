@@ -1,0 +1,1 @@
+{"name":"Local: sub_prod","url":"d:\\Coding\\C++\\LeetCode\\.cph\\sub_prod.cpp","tests":[{"id":1727763868931,"input":"234","output":"15 "},{"id":1727763947767,"input":"4421","output":"21"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C++\\LeetCode\\.cph\\sub_prod.cpp","group":"local","local":true}
